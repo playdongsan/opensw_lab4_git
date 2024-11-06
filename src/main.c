@@ -6,6 +6,6 @@
 int main(void){
     foo();
     goo();
-    printf("main\n");
+    printf("main hi!\n");
     return 0;
 }
