@@ -14,4 +14,4 @@ $(OBJ_DIR)/%.o: $(SRC_DIR)/%.c
 
 
 clean:
-	rm $(BIN_DIR)/myapp $(OBJ_DIR)/*.o
+	rm -f $(BIN_DIR)/myapp $(OBJ_DIR)/*.o
